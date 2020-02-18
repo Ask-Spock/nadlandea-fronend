@@ -1,0 +1,23 @@
+/* ===================================== 
+   Grid Layout
+======================================== */
+
+.grid {
+    max-width: 80%;
+    display: grid;
+
+    grid-template-columns: auto;
+    grid-template-rows: 100px;
+
+
+}
+/*
+    grid-template-columns: 200px auto 200px;
+    grid-template-rows: 100px 200px;
+    grid-gap: 15px;
+  }
+
+  */
+  
+  
+  
